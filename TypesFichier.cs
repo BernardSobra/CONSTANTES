@@ -60,5 +60,59 @@
         public const string CTyp_Lien = "http;";
         public const string CTyp_Message = "msg;";
         public const string CType_Presentation = "pptx;ppt;pps;ppsx;pptm;odp;key";
+
+        // ********************************************************************************
+        // Filtres de sélecteur de fichiers (format "Libellé" TAB "Motifs" RC répété),
+        // alignés sur les familles ci-dessus. Utilise \t/\r\n en dur plutôt que les
+        // constantes TAB/RC de WL.Constantes, afin que cette librairie reste sans
+        // dépendance.
+        // ********************************************************************************
+        public const string CSel_Image =
+            "Images" + "\t" + "*.jpg;*.jpeg;*.png;*.bmp;*.gif;*.tif;*.tiff;*.webp" + "\r\n" +
+            "JPEG" + "\t" + "*.jpg;*.jpeg" + "\r\n" +
+            "PNG" + "\t" + "*.png" + "\r\n" +
+            "Bitmap" + "\t" + "*.bmp" + "\r\n" +
+            "Tous" + "\t" + "*.*";
+        // ----------------------------------------
+        public const string CSel_Texte =
+            "Fichiers texte" + "\t" + "*.txt;*.csv;*.log" + "\r\n" +
+            "Texte" + "\t" + "*.txt" + "\r\n" +
+            "CSV" + "\t" + "*.csv" + "\r\n" +
+            "Tous" + "\t" + "*.*";
+        // ----------------------------------------
+        public const string CSel_Word =
+            "Documents Word" + "\t" + "*.doc;*.docx" + "\r\n" +
+            "Word ancien format" + "\t" + "*.doc" + "\r\n" +
+            "Word" + "\t" + "*.docx" + "\r\n" +
+            "Tous" + "\t" + "*.*";
+        // ----------------------------------------
+        public const string CSel_Excel =
+            "Classeurs Excel" + "\t" + "*.xls;*.xlsx;*.xlsm;*.xlsb" + "\r\n" +
+            "Excel ancien format" + "\t" + "*.xls" + "\r\n" +
+            "Excel" + "\t" + "*.xlsx;*.xlsm;*.xlsb" + "\r\n" +
+            "Tous" + "\t" + "*.*";
+        // ----------------------------------------
+        public const string CSel_Pdf =
+            "Documents PDF" + "\t" + "*.pdf" + "\r\n" +
+            "Tous" + "\t" + "*.*";
+        // ----------------------------------------
+        public const string CSel_CSV =
+            "Fichiers CSV" + "\t" + "*.csv" + "\r\n" +
+            "Tous" + "\t" + "*.*";
+        // ----------------------------------------
+        public const string CSel_XML =
+            "Fichiers XML" + "\t" + "*.xml" + "\r\n" +
+            "Tous" + "\t" + "*.*";
+        // ----------------------------------------
+        public const string CSel_JSON =
+            "Fichiers JSON" + "\t" + "*.json" + "\r\n" +
+            "Tous" + "\t" + "*.*";
+        // ----------------------------------------
+        public const string CSel_HTML =
+            "Fichiers HTML" + "\t" + "*.htm;*.html" + "\r\n" +
+            "Tous" + "\t" + "*.*";
+        // ----------------------------------------
+        public const string CSel_Tous =
+            "Tous les fichiers" + "\t" + "*.*";
     }
 }
