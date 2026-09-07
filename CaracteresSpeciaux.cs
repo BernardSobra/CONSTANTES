@@ -8,6 +8,22 @@
     /// </summary>
     public static class CaracteresSpeciaux
     {
+        // *****************************************
+        #region CONSTANTES DIVERSES
+        public const string RC = "\r\n";      // Retour chariot + saut de ligne
+        public const string CRLF = "\r\n";    // Identique à RC
+        public const string TAB = "\t";       // Tabulation
+        public const string ESC = "\u001B";   // Touche Échap
+        public const string ESP = "\u00A0";   // Espace insécable
+        public const string EOT = "\u0004";   // Fin de fichier externe
+        // ----------------------------------------
+        public const bool Vrai = true;
+        public const bool Faux = false;
+        // ----------------------------------------
+        public const int NULL = 0;
+        // ----------------------------------------
+        public const double ValPI = 3.14159265358979323;
+        #endregion
         // ********************************************************************************
         // 1. Ponctuation et opérateurs
         // ********************************************************************************
