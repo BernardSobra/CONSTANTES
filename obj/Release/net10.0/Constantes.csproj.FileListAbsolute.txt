@@ -10,3 +10,4 @@ C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Release\net10.0\Constantes.dll
 C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Release\net10.0\refint\Constantes.dll
 C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Release\net10.0\Constantes.pdb
 C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Release\net10.0\ref\Constantes.dll
+C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Release\net10.0\Constantes.csproj.Up2Date
