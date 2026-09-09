@@ -1,0 +1,13 @@
+C:\DATA\DEVELOPPEMENT\#C\Constantes\bin\Debug\net10.0\Constantes.deps.json
+C:\DATA\DEVELOPPEMENT\#C\Constantes\bin\Debug\net10.0\Constantes.dll
+C:\DATA\DEVELOPPEMENT\#C\Constantes\bin\Debug\net10.0\Constantes.pdb
+C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Debug\net10.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Debug\net10.0\Constantes.AssemblyInfoInputs.cache
+C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Debug\net10.0\Constantes.AssemblyInfo.cs
+C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Debug\net10.0\Constantes.csproj.CoreCompileInputs.cache
+C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Debug\net10.0\Constantes.sourcelink.json
+C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Debug\net10.0\Constantes.dll
+C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Debug\net10.0\refint\Constantes.dll
+C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Debug\net10.0\Constantes.pdb
+C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Debug\net10.0\ref\Constantes.dll
+C:\DATA\DEVELOPPEMENT\#C\Constantes\obj\Debug\net10.0\Constantes.csproj.Up2Date
